@@ -1,1 +1,1 @@
-"Learn" and "Project" code on DQLab
+"Learn" and "Project" codes on DQLab
